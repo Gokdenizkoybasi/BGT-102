@@ -38,13 +38,6 @@ Proje, ders kapsamındaki değerlendirme yönetmeliğinin **tüm maddelerini** k
 
 ---
 
-## 👥 Ekip
-
-| Ad Soyad | Okul Numarası | Sorumluluk |
-|---|---|---|
-| **Semih Mert Korkmaz** | 202407105077 | Backend, Veritabanı, Güvenlik |
-| **Gökdeniz Köybaşı** | 202407105076 | GUI, OSINT Modülleri, Raporlama |
-
 > Ayrıntılı görev dağılımı: [`docs/gorev_dagilimi.md`](docs/gorev_dagilimi.md)
 
 ---
