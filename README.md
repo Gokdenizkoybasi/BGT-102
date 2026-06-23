@@ -9,8 +9,6 @@ BGT 102 — Final Projesi
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=flat&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/GUI-Tkinter-ff6f00?style=flat)
 ![SQLite](https://img.shields.io/badge/DB-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![No API](https://img.shields.io/badge/API-Yok-success?style=flat)
-![No Docker](https://img.shields.io/badge/Docker-Gerekmez-success?style=flat)
 ![License](https://img.shields.io/badge/Lisans-MIT-blue?style=flat)
 
 </div>
