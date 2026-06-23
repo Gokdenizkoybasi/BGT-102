@@ -34,14 +34,8 @@ Proje, ders kapsamındaki değerlendirme yönetmeliğinin **tüm maddelerini** k
 <div align="center">
 
 ### Giriş Ekranı
-<img src="https://i.imgur.com/PLACEHOLDER1.png" alt="Giriş Ekranı" width="700"/>
-
-### Ana Panel — Tarama Sekmesi
-<img src="https://i.imgur.com/PLACEHOLDER2.png" alt="Tarama Sekmesi" width="700"/>
-
-### Raporlar ve Loglar
-<img src="https://i.imgur.com/PLACEHOLDER3.png" alt="Raporlar" width="700"/>
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/Gokdenizkoybasi/BGT-102/main/docs/dashboard.png" alt="HAWK-OSINT Lite" width="800"/>
 </div>
 
 ---
